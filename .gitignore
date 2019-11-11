@@ -1,2 +1,4 @@
-./node_modules/*
-.response.json
+node_modules/*
+response.json
+response.txt
+output.pdf
