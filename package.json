@@ -4,9 +4,12 @@
   "description": "eqfx json parser",
   "main": "eqfx.js",
   "dependencies": {
-    "html-pdf": "^2.2.0"
+    "html-pdf": "^2.2.0",
+    "pdfkit": "0.10.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "pdfkit": "0.10.0"
+    },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
